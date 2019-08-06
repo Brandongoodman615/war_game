@@ -1,3 +1,4 @@
-# war_game
-#
-# $ ruby war.rb
+# War, The Card Game
+```
+ $ ruby war.rb
+```
