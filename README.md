@@ -2,3 +2,5 @@
 ```
  $ ruby war.rb
 ```
+
+![Example Play](ss.png)
